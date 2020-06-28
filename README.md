@@ -3,7 +3,7 @@
   <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
 </p>
 
-> Repositório do curso de extensão para desenvolvimento de uma Criptomoeda.
+> Repositório do curso de extensão da faculdade IESB que visa o desenvolvimento de uma Criptomoeda.
 
 ## Author
 
